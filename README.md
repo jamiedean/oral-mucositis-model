@@ -8,4 +8,4 @@ Normal tissue complication probability (NTCP) modelling using spatial dose metri
 
 Please cite the above article in publications using the model.
 
-This model is intended for research purposes only. It has not yet been externally validated and so should be employed to make individual patient management decisions.
+This model is intended for research purposes only. It has not yet been externally validated and so should not be employed to make individual patient management decisions.
