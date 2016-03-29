@@ -30,7 +30,7 @@ def predict_ntcp(covariates, ntcpModel):
 
     return ntcpPredictions
 
-loadData = load_data()
+covariates = load_data()
 ntcpModel = load_ntcp_model()
 predictNtcp = predict_ntcp(covariates, ntcpModel)
 
