@@ -8,7 +8,7 @@ def load_data():
 
     inputData = pd.read_csv('inputData.csv').set_index('patientID')
 
-    covariates = data.get([
+    covariates = inputData.get([
                            'definitiveRT', 'male', 'age', 'hypopharynx/larynx', 'oropharynx/oral cavity',
                            'nasopharynx/nasal cavity', 'unknown primary', 'parotid',
                            'indChemo', 'noConChemo', 'cisplatin', 'carboplatin', 'cisCarbo',
