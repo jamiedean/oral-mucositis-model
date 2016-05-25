@@ -2,7 +2,7 @@
 
 Random forest classification model of severe acute oral mucositis resulting from head and neck radiotherapy.
 
-To run the model fill in the inputData.csv file and run the PredictMucositisNtcp.py Python script. The Model folder and inputData.csv file should be in the working directory. Values for the model covariates should be entered into the inputData.csv file.
+To run the model use the PredictMucositisNtcp.py Python script. The Model folder and inputData.csv file should be in the working directory. Values for the model covariates should be entered into the inputData.csv file.
 
 The following dependencies should be installed:
 
