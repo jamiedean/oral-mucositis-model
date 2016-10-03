@@ -14,7 +14,7 @@ The following dependencies should be installed:
 
 Details on model training and validation can be found in the article:
 
-Normal tissue complication probability (NTCP) modelling using spatial dose metrics and machine learning methods for severe acute oral mucoositis resulting from head and neck radiotherapy. Dean  JA et al. Radiother Oncol 2016 120:21-27(http://dx.doi.org/10.1016/j.radonc.2016.05.015).
+Normal tissue complication probability (NTCP) modelling using spatial dose metrics and machine learning methods for severe acute oral mucoositis resulting from head and neck radiotherapy. Dean  JA et al. Radiother Oncol 2016 120:21-27 (http://dx.doi.org/10.1016/j.radonc.2016.05.015).
 
 Please consider citing the above article in publications using the model.
 
